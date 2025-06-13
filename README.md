@@ -74,8 +74,6 @@ Download the dataset from a reliable source (e.g., Kaggle) and place it in the `
 - The commented-out `read_images_from_zip` function can be used if the dataset is provided as a ZIP file (e.g., `BanglaLekha-Isolated.zip`).
 - Adjust hyperparameters (e.g., `BATCH_SIZE`, `EPOCHS`, `LEARNING_RATE`) in the notebook for experimentation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The BanglaLekha-Isolated dataset for providing a comprehensive set of Bengali character images.
